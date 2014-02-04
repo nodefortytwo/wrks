@@ -1,0 +1,11 @@
+{
+	"name" : "Template",
+	"files" : [
+		"template.php",
+		"template.class.php",
+		"render.class.php",
+		"libs/Michelf/Markdown.php"
+	],
+	"dependencies" : [
+	]
+}

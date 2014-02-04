@@ -1,0 +1,9 @@
+{
+	"name" : "Mongo",
+	"files" : [
+		"mongo.php",
+		"mongo.class.php"
+	],
+	"dependencies" : [
+	]
+}

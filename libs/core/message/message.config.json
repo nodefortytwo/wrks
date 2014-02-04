@@ -1,0 +1,9 @@
+{
+	"name" : "Message",
+	"files" : [
+		"message.php"
+	],
+	"dependencies" : [
+		"session"
+	]
+}

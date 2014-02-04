@@ -1,0 +1,14 @@
+{
+	"name" : "User",
+	"files" : [
+		"user.php",
+		"routes/*",
+		"interfaces/*",
+		"classes/user.class.php",
+		"classes/*"
+	],
+	"dependencies" : [
+		"session",
+		"error"
+	]
+}

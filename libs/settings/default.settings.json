@@ -1,0 +1,6 @@
+{
+	"host" : "local.default.me",
+	"files" : "public",
+	"db_name" : "default",
+	"site_name" : "SiteName"
+}

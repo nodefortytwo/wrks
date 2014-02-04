@@ -1,0 +1,10 @@
+{
+	"name" : "Route",
+	"files" : [
+		"route.php",
+		"route.class.php",
+		"routes/*"
+	],
+	"dependencies" : [
+	]
+}

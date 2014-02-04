@@ -1,0 +1,10 @@
+{
+	"name" : "Route",
+	"files" : [
+		"interfaces/*",
+		"classes/*"
+	],
+	"dependencies" : [
+		"mongo"
+	]
+}

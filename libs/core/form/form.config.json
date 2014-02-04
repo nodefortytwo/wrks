@@ -1,0 +1,11 @@
+{
+	"name" : "Form",
+	"files" : [
+		"form.php",
+		"form.class.php",
+		"routes/*"
+	],
+	"dependencies" : [
+		"error"
+	]
+}

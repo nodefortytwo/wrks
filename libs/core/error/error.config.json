@@ -1,0 +1,10 @@
+{
+	"name" : "Error",
+	"files" : [
+		"error.php",
+		"error.class.php"
+	],
+	"dependencies" : [
+		"mongo"
+	]
+}

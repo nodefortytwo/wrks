@@ -1,0 +1,10 @@
+{
+	"name" : "Patterns",
+	"files" : [
+		"collection.class.php",
+		"model.class.php"
+	],
+	"dependencies" : [
+		"mongo"
+	]
+}
